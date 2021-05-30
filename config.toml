@@ -5,8 +5,8 @@ title = "Raja Ravi"
 theme = "mainroad"
 [Author] # Used in authorbox
   name = "Raja Ravi"
-  bio = "Bio example"
-  avatar = "img/raja-avatar.jpg"
+  bio = "Backend Developer and Architect"
+  avatar = "img/raja-avatar.png"
 
 [Params]
   description = "Raja's Personal blog about everything" # Description of your site
