@@ -1,4 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "en-us"
+paginate = "10" # Number of posts per page
 title = "Raja Ravi"
-theme = "ananke"
+theme = "mainroad"
+[Author] # Used in authorbox
+  name = "Raja Ravi"
+  bio = "Ruminations on Computers, Programming and Life"
+  avatar = "img/avatar.png"
